@@ -1,7 +1,7 @@
 {
-  "name": "Boo",
+  "name": "AFK Bot",
   "bot-account": {
-    "username": "Requirencyaaa",
+    "username": "Technoblade",
     "password": "",
     "type": "offline"
   },
@@ -31,7 +31,7 @@
       "repeat-delay": 500,
       "messages": [
         "I'm a regular player",
-        "Stay!",
+        "Subscribe to Slobos!",
         "I like to play Minecraft!"
       ]
     },
